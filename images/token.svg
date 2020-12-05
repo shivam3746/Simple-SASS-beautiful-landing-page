@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 531 309" style="enable-background:new 0 0 531 309;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1A2C42;stroke:#30336B;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{fill:#30336B;}
+	.st3{fill:none;stroke:#30336B;stroke-width:2;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#E0E0E2;stroke-width:2;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#FBD232;stroke-width:2;stroke-miterlimit:10;}
+	.st6{fill:#FBD232;}
+	.st7{fill:#F49126;}
+	.st8{fill:#F5B925;}
+	.st9{fill:#F27233;}
+	#signal_line_1 {
+		stroke-dasharray: 0 990;
+		stroke-dashoffset: 1000;
+		animation: signal 15s ease-in-out infinite;
+		animation-delay: 1.2s;
+	}
+	#signal_line_2 {
+		stroke-dasharray: 0 990;
+		stroke-dashoffset: 1000;
+		animation: signal 15s ease-in-out infinite alternate;
+		animation-delay: 2s;
+	}
+	#signal_line_3 {
+		stroke-dasharray: 0 990;
+		stroke-dashoffset: 1000;
+		animation: signal 15s ease-in-out infinite;
+		animation-delay: 3.2s;
+	}
+	#signal_line_4 {
+		stroke-dasharray: 0 990;
+		stroke-dashoffset: 1000;
+		animation: signal 15s ease-in-out reverse infinite;
+		animation-delay: 4.6s;
+	}
+	#signal_line_5 {
+		stroke-dasharray: 0 990;
+		stroke-dashoffset: 1000;
+		animation: signal 15s ease-in-out infinite alternate;
+		animation-delay: 6s;
+	}
+	#signal_line_6 {
+		stroke-dasharray: 0 990;
+		stroke-dashoffset: 1000;
+		animation: signal 15s ease-in-out infinite;
+		animation-delay: 7.3s;
+	}
+	#signal_line_7 {
+		stroke-dasharray: 0 990;
+		stroke-dashoffset: 1000;
+		animation: signal 15s ease-in-out infinite;
+		animation-delay: 8.8s;
+	}
+	#signal_line_8 {
+		stroke-dasharray: 0 990;
+		stroke-dashoffset: 1000;
+		animation: signal 15s reverse ease-in-out infinite;
+		animation-delay: 9.5s;
+	}
+	#signal_line_9 {
+		stroke-dasharray: 0 990;
+		stroke-dashoffset: 1000;
+		animation: signal 15.5s ease-in-out infinite;
+		animation-delay: 10.2s;
+	}
+	#signal_line_10 {
+		stroke-dasharray: 0 990;
+		stroke-dashoffset: 1000;
+		animation: signal 15s ease-in-out infinite;
+		animation-delay: 11.1s;
+	}
+	#signal_line_11 {
+		stroke-dasharray: 0 990;
+		stroke-dashoffset: 1000;
+		animation: signal 14.5s reverse ease-in-out infinite;
+		animation-delay: 12.3s;
+	}
+	#signal_line_12 {
+		stroke-dasharray: 0 990;
+		stroke-dashoffset: 1000;
+		animation: signal 13s ease-in-out infinite;
+		animation-delay: 14.2s;
+	}
+	@keyframes signal {
+		0% {
+		}
+		0.1% {
+			stroke-dasharray: 7 990;
+			stroke-dashoffset: 1000;
+		}
+		20%,100% {
+			stroke-dashoffset: 20;
+		}
+	}
+	#yellow_line_1 {
+		stroke-dasharray: 0 530;
+		animation: impulse 4s linear infinite;
+		animation-delay: 2s;
+	}
+	#yellow_line_2 {
+		animation: impulse 3.5s reverse linear infinite;
+	}
+	#yellow_line_3 {
+		stroke-dasharray: 0 530;
+		animation: impulse 3.8s linear infinite;
+		animation-delay: 1s;
+	}
+	#yellow_line_4 {
+		animation: impulse 3.9s linear infinite;
+	}
+	#yellow_line_5 {
+		stroke-dasharray: 0 530;
+		animation: impulse 4s linear reverse infinite;
+		animation-delay: 2.5s;
+	}
+	@keyframes impulse {
+		0% {
+			stroke-dasharray: 0 530;
+			stroke-dashoffset: 265;
+		}
+		30% {
+			stroke-dasharray: 155 375;
+			stroke-dashoffset: 0;
+		}
+		70%,100% {
+			stroke-dasharray: 0 530;
+			stroke-dashoffset: -265;
+		}
+	}
+</style>
+<g id="Layer_1_1_">
+	<g>
+		<path id="XMLID_5393_" class="st0" d="M271.5,305L271.5,305c-82.6,0-150.1-67.8-150.1-150.6l0,0C121.4,71.6,189,3.8,271.5,3.8l0,0
+			c82.6,0,150.1,67.8,150.1,150.6l0,0C421.6,237.2,354,305,271.5,305z"/>
+		<g id="XMLID_3629_">
+			<path id="XMLID_5388_" class="st1" d="M355.6,278.3l38.6-38.5c14.8-21.2,24.2-46.4,26.4-73.5h-4.3c-0.1,12.4-0.2,22.4-0.2,23.5
+				H414c0.2-13.8,0.3-34.8,0.3-51.1h-59.7l-34.3,34.2l-1.5-1.5l34.9-34.8h60.5c0-10-0.1-17.9-0.2-20.5h-69l-22.4,22.3l-1.5-1.5
+				l23-22.9h71.3l0.2,0.2c-1.3-4.9-2.9-9.6-4.7-14.3h-82.1L271.5,157h-86.3l-11.5-11.5h-52.3c-0.2,2.8-0.4,5.6-0.4,8.4
+				c0,3.7,0.3,7.4,0.6,11h44.6l14.2,14.2h105.7l23-22.9l1.5,1.5L287,181.3H179.5l-14.2-14.2h-43.6c0.8,9.5,2.6,18.6,5.1,27.5
+				c22.7,22.8,63.3,62.7,82.5,81.6h97.6l64.7-64.5l1.5,1.5l-65.3,65.1h-99.3l-0.3-0.3c-2.1-2.1-4.6-4.6-7.5-7.4h-24.2
+				c12.3,10.1,26.3,18.2,41.4,24h106.5C335.4,290.4,345.9,285,355.6,278.3z M206,240.5h-2.1v-8.9h-19v-2.1h19V221l-22.1-22h-24.2
+				l-12.8-12.8l1.5-1.5l12.2,12.2h24.2l21.2,21.2v-36.6h2.1L206,240.5L206,240.5z M358.5,159.4c-11.3,11.5-21.2,21.5-29.9,30.3
+				l14.4,14.4l22.7-22.7l1.5,1.5L343.1,207l-15.9-15.8c-3.7,3.7-7.1,7.2-10.4,10.5l23.5,23.4l-35,34.9l-14.1-15.7l16.1-16l1.5,1.5
+				l-14.7,14.6l11.3,12.6l32-31.9l-22-21.9c-48.3,48.7-49.5,48.7-50,48.7h-45v-2.1h12V198h60.5l-40.1,40v-16.7h2.1V233l33-32.9
+				h-53.4v49.7h30.6c4.2-3,57.2-56.4,92.2-92.1l0.3-0.3h36.9v60.1h-2.1v-58h-33.9V159.4z M378.1,234.4l10.7,10.7l-1.5,1.5l-9.3-9.2
+				l-20.4,20.4l-1.5-1.5L378.1,234.4z"/>
+			<path id="XMLID_5387_" class="st1" d="M127.7,198.6c8.6,27.5,24.9,51.7,46.3,70h24.5C179.4,249.8,147.9,218.9,127.7,198.6z"/>
+			<path id="XMLID_5386_" class="st1" d="M223.4,296.7c15,5.1,31,8,47.7,8l0,0c16.7,0,32.7-2.9,47.7-8H223.4z"/>
+			<path id="XMLID_5385_" class="st1" d="M188.6,28.5c-8.8,5.9-17,12.7-24.4,20.3h24.4V28.5z"/>
+			<path id="XMLID_5382_" class="st1" d="M186.2,155.1h84.6L328.1,98h50.2L355,74.7h-62.6l-15.2,15.1h-77.6v-2.1h76.7l15.2-15.1
+				h64.3l24.5,24.5l-0.8,0.8h30.7c-3-7.3-6.5-14.3-10.6-21.1h-15.1L340,32.4h-74.5V3.7c-11.3,0.4-22.2,2.1-32.7,4.9l2.6,2.6
+				l-1.5,1.5l-3.5-3.5c-9.6,2.7-18.8,6.4-27.6,10.9v29.7h24.4l-13.1-14.9V20.1h2.1V34l15.6,17.8h-31V21.1c-3.5,1.9-6.9,4-10.2,6.1
+				v23.6h-28.4c-5,5.3-9.6,10.9-13.8,16.8h1.9v2.1h-3.4c-3.8,5.7-7.2,11.7-10.2,17.9h30.9l18.5-18.4h81.2v2.1h-80.4l-18.5,18.4
+				h-32.8c-2.8,5.8-5.2,11.7-7.2,17.9h18v2.1h-18.8c-1.8,5.8-3.1,11.8-4.2,17.9h63.4l16.2,16.1h56.1l31-30.9h-61.9v15.1h-2.1v-15.1
+				h-45v-2.1h111l20.1-20l1.5,1.5L260,145.6h-57.8L186,129.5h-62.9c-0.8,4.6-1.3,9.3-1.7,14h53.1L186.2,155.1z M242.9,52.9V22.2h2.1
+				v28.6h111.8v2.1H242.9z"/>
+			<path id="XMLID_5381_" class="st1" d="M416.4,136.7c0,8.6-0.1,18.6-0.1,27.5h4.4c0.2-3.4,0.5-6.8,0.5-10.2l0,0
+				c0-12.4-1.7-24.3-4.5-35.8l-0.5-0.5C416.4,121.5,416.4,128.5,416.4,136.7z"/>
+			<path id="XMLID_5380_" class="st1" d="M383.1,253.8l-13.6,13.5C374.3,263.1,378.9,258.6,383.1,253.8z"/>
+			<path id="XMLID_5379_" class="st1" d="M340.8,30.4l44.6,44.5h13c-17-27.3-42.4-48.8-72.5-60.8h-25.5V12h19.9
+				c-15.4-5.4-32-8.5-49.2-8.5l0,0c-1.2,0-2.3,0.2-3.5,0.2v26.8h73.2V30.4z"/>
+			<g id="XMLID_5359_">
+				<path id="XMLID_5378_" class="st2" d="M340,32.4l44.6,44.5h15.1c-0.4-0.7-0.8-1.4-1.3-2.1h-13l-44.6-44.5h-73.3V3.6
+					c-0.7,0-1.4,0.1-2.1,0.1v28.7H340z"/>
+				<path id="XMLID_5377_" class="st2" d="M300.4,14h25.5c-1.8-0.7-3.7-1.4-5.6-2.1h-19.9V14z"/>
+				<polygon id="XMLID_5376_" class="st2" points="356.8,50.8 245,50.8 245,22.2 242.9,22.2 242.9,52.9 356.8,52.9 				"/>
+				<path id="XMLID_5375_" class="st2" d="M231.9,51.8L216.3,34V20.1h-2.1v14.7l13.1,14.9h-24.4V20.1c-0.7,0.4-1.4,0.6-2.1,1v30.7
+					C200.8,51.8,231.9,51.8,231.9,51.8z"/>
+				<path id="XMLID_5374_" class="st2" d="M235.5,11.2l-2.6-2.6c-0.8,0.2-1.6,0.4-2.3,0.6l3.5,3.5L235.5,11.2z"/>
+				<path id="XMLID_5373_" class="st2" d="M190.6,27.2c-0.7,0.4-1.4,0.8-2.1,1.3v20.3h-24.4c-0.7,0.7-1.2,1.4-1.9,2.1h28.4V27.2z"/>
+				<path id="XMLID_5372_" class="st2" d="M185.3,157.1h86.3l57.3-57.1H411c-0.3-0.7-0.5-1.4-0.8-2.1h-30.7l0.8-0.8l-24.5-24.5
+					h-64.3l-15.2,15.1h-76.7v2.1h77.6l15.2-15.1H355L378.3,98h-50.2l-57.3,57.1h-84.6l-11.5-11.5h-53.1c0,0.7-0.1,1.4-0.1,2.1h52.3
+					L185.3,157.1z"/>
+				<path id="XMLID_5371_" class="st2" d="M150.3,67.7h-1.9c-0.5,0.7-1.1,1.4-1.5,2.1h3.4V67.7z"/>
+				<path id="XMLID_5370_" class="st2" d="M202.2,145.6H260L313.8,92l-1.5-1.5l-20.1,20h-111v2.1h45v15.1h2.1v-15.1h61.9l-31,30.9
+					h-56.1l-16.2-16.1h-63.4c-0.1,0.7-0.2,1.4-0.3,2.1h62.9L202.2,145.6z"/>
+				<path id="XMLID_5369_" class="st2" d="M186.9,71.3h80.4v-2.1h-81.2l-18.5,18.4h-30.9c-0.3,0.7-0.7,1.4-1,2.1h32.8L186.9,71.3z"
+					/>
+				<path id="XMLID_5368_" class="st2" d="M146.5,107.5h-18c-0.2,0.7-0.5,1.4-0.7,2.1h18.8v-2.1H146.5z"/>
+				<path id="XMLID_5367_" class="st2" d="M369.5,267.4l13.6-13.5c3.9-4.4,7.7-9.1,11.1-14l-38.6,38.5
+					C360.5,275,365.1,271.3,369.5,267.4z"/>
+				<path id="XMLID_5366_" class="st2" d="M324.4,294.6H217.8c1.9,0.7,3.7,1.4,5.6,2.1h95.3C320.7,296.1,322.5,295.3,324.4,294.6z"
+					/>
+				<path id="XMLID_5365_" class="st2" d="M208.1,278l0.3,0.3h99.3l65.3-65.1l-1.5-1.5l-64.7,64.5h-97.6
+					c-19.2-18.9-59.8-58.8-82.5-81.6c0.4,1.3,0.6,2.6,1,3.9c20.2,20.3,51.7,51.3,70.7,70H174c0.8,0.7,1.6,1.4,2.4,2.1h24.2
+					C203.5,273.4,206,275.9,208.1,278z"/>
+				<path id="XMLID_5364_" class="st2" d="M179.5,181.3H287l23.6-23.5l-1.5-1.5l-23,22.9H180.4L166.2,165h-44.6
+					c0.1,0.7,0,1.4,0.1,2.1h43.6L179.5,181.3z"/>
+				<polygon id="XMLID_5363_" class="st2" points="203.9,218 182.7,196.9 158.5,196.9 146.3,184.7 144.8,186.2 157.6,198.9 
+					181.8,198.9 203.9,221 203.9,229.5 185,229.5 185,231.5 203.9,231.5 203.9,240.5 206,240.5 206,181.4 203.9,181.4 				"/>
+				<path id="XMLID_5362_" class="st2" d="M344.2,114.1l-23,22.9l1.5,1.5l22.4-22.3h69c0.2,2.7,0.2,10.5,0.2,20.5h-60.5l-34.9,34.8
+					l1.5,1.5l34.3-34.2h59.7c0,16.2-0.2,37.3-0.3,51.1h2.1c0-1.1,0.1-11.1,0.2-23.5h4.3c0.1-0.7,0.1-1.4,0.1-2.1h-4.4
+					c0.1-8.9,0.1-18.9,0.1-27.5c0-8.2,0-15.2-0.2-19l0.5,0.5c-0.3-1.3-0.7-2.6-1-3.9l-0.2-0.2L344.2,114.1L344.2,114.1z"/>
+				<polygon id="XMLID_5361_" class="st2" points="378.1,237.3 387.4,246.6 388.9,245.1 378.1,234.4 356.2,256.2 357.7,257.7 				
+					"/>
+				<path id="XMLID_5360_" class="st2" d="M392.5,217.5h2.1v-60.1h-36.9l-0.3,0.3c-35.1,35.7-88,89.1-92.2,92.1h-30.6v-49.7H288
+					L255,233v-11.7h-2.1V238l40.1-39.9h-60.5v51.8h-12v2.1h45c0.5,0,1.7,0,50-48.7l22,21.9l-32,31.9l-11.3-12.6l14.7-14.6l-1.5-1.5
+					l-16.1,16l14.1,15.7l35-34.9l-23.5-23.4c3.3-3.3,6.7-6.8,10.4-10.5l15.9,15.8l24.2-24.1l-1.5-1.5l-22.7,22.7l-14.4-14.4
+					c8.7-8.8,18.6-18.8,29.9-30.3h33.9v58H392.5z"/>
+			</g>
+		</g>
+		<g id="XMLID_3073_">
+			<g id="XMLID_3078_">
+				<g id="XMLID_3198_">
+					<polygon id="XMLID_3599_" class="st2" points="274.7,180.5 308.7,146.9 330.1,198.2 274.7,247.5 					"/>
+					<polygon id="XMLID_3546_" class="st2" points="213.5,198.2 234.8,146.9 268.9,180.5 268.9,247.5 					"/>
+					<polygon id="XMLID_3381_" class="st2" points="236.9,139.9 271.8,55 306.8,139.9 271.8,174.9 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<polyline class="st3" points="298.7,128.2 327.9,98.9 435,98.9 466.5,67.5 527,67.5 	"/>
+	<polyline class="st3" points="317,175 354.5,137.5 415,137.5 415,115 440,115 465.5,140.5 499,140.5 	"/>
+	<polyline class="st3" points="267,70 187,70 168.5,88.5 104,88.5 85.2,69.8 32,70 	"/>
+	<polyline class="st3" points="241.9,144 201.5,144 185.7,128.3 85,128.3 64.4,107.6 32,107.6 2.3,135.3 	"/>
+	<polyline class="st3" points="223.4,179.9 179,179.9 165,166 106,166 92,180 47,180 	"/>
+	<polyline class="st3" points="231,156 186,156 174.5,144.5 88.6,144.6 74.1,157.1 34,157.1 9.1,182.1 	"/>
+	<polyline class="st3" points="146,186 158,198 182,198 205,221 205,231 185,231 	"/>
+	<polyline class="st3" points="358,256 378.4,235.6 406.9,264.1 436,264.1 457,243 501,243 	"/>
+	<polyline class="st3" points="323,137 345,115 415,115 415,166 433,166 453,186 512,186 	"/>
+	<polyline class="st3" points="244,22 244,51.8 357,51.8 	"/>
+	<polyline class="st3" points="373,212 307.5,277.5 209,277.5 201.7,270.2 178,270.2 	"/>
+	<polyline class="st3" points="147.6,216.4 127.6,196.4 113,196.4 78.7,230.7 47,230.7 	"/>
+</g>
+<g id="signalLines">
+	<polyline id="signal_line_12" class="st4" points="298.7,128.2 327.9,98.9 435,98.9 466.5,67.5 527,67.5 	"/>
+	<polyline id="signal_line_11" class="st4" points="317,175 354.5,137.5 415,137.5 415,115 440,115 465.5,140.5 499,140.5 	
+		"/>
+	<polyline id="signal_line_10" class="st4" points="267,70 187,70 168.5,88.5 104,88.5 85.2,69.8 32,70 	"/>
+	<polyline id="signal_line_9" class="st4" points="241.9,144 201.5,144 185.7,128.3 85,128.3 64.4,107.6 32,107.6 
+		2.3,135.3 	"/>
+	<polyline id="signal_line_8" class="st4" points="223.4,179.9 179,179.9 165,166 106,166 92,180 47,180 	"/>
+	<polyline id="signal_line_7" class="st4" points="231,156 186,156 174.5,144.5 88.6,144.6 74.1,157.1 34,157.1 9.1,182.1 	
+		"/>
+	<polyline id="signal_line_6" class="st4" points="146,186 158,198 182,198 205,221 205,231 185,231 	"/>
+	<polyline id="signal_line_5" class="st4" points="358,256 378.4,235.6 406.9,264.1 436,264.1 457,243 501,243 	"/>
+	<polyline id="signal_line_4" class="st4" points="323,137 345,115 415,115 415,166 433,166 453,186 512,186 	"/>
+	<polyline id="signal_line_3" class="st4" points="244,22 244,51.8 357,51.8 	"/>
+	<polyline id="signal_line_2" class="st4" points="373,212 307.5,277.5 209,277.5 201.7,270.2 178,270.2 	"/>
+	<polyline id="signal_line_1" class="st4" points="147.6,216.4 127.6,196.4 113,196.4 78.7,230.7 47,230.7 	"/>
+</g>
+<g id="electricity">
+	<polyline id="yellow_line_5" class="st5" points="298.7,128.2 327.9,98.9 435,98.9 466.5,67.5 527,67.5 	"/>
+	<polyline id="yellow_line_4" class="st5" points="317,175 354.5,137.5 415,137.5 415,115 440,115 465.5,140.5 499,140.5 	
+		"/>
+	<polyline id="yellow_line_3" class="st5" points="267,70 187,70 168.5,88.5 104,88.5 85.2,69.8 32,70 	"/>
+	<polyline id="yellow_line_2" class="st5" points="241.9,144 201.5,144 185.7,128.3 85,128.3 64.4,107.6 32,107.6 
+		2.3,135.3 	"/>
+	<polyline id="yellow_line_1" class="st5" points="223.4,179.9 179,179.9 165,166 106,166 92,180 47,180 	"/>
+</g>
+<g id="Layer_4">
+	<g>
+		<path class="st6" d="M271.5,295.1c-77.3,0-140.3-63.1-140.3-140.7S194.1,13.7,271.5,13.7s140.3,63.1,140.3,140.7
+			S348.8,295.1,271.5,295.1z M271.5,17.3c-75.3,0-136.6,61.5-136.6,137s61.3,137,136.6,137s136.6-61.5,136.6-137
+			S346.8,17.3,271.5,17.3z"/>
+	</g>
+	<g id="XMLID_1030_">
+		<polygon id="XMLID_2989_" class="st6" points="306.6,139.2 271.5,174.3 236.3,139.2 271.5,53.8 		"/>
+		<polygon id="XMLID_2972_" class="st6" points="274.8,246.6 274.8,179.9 308.7,146.6 329.9,197.5 		"/>
+		<polygon id="XMLID_2956_" class="st7" points="306.6,139.2 271.5,53.8 271.5,174.3 		"/>
+		<polygon id="XMLID_2936_" class="st7" points="308.7,146.6 298.7,198.7 274.8,246.6 329.9,197.5 		"/>
+		<polygon id="XMLID_2922_" class="st8" points="274.8,179.9 298.7,198.7 329.9,197.5 308.7,146.6 		"/>
+		<polygon id="XMLID_2873_" class="st9" points="329.9,197.5 308.7,146.6 298.7,198.7 		"/>
+		<polygon id="XMLID_2860_" class="st7" points="268.2,246.7 268.2,179.9 234.3,146.6 213.1,197.6 		"/>
+		<polygon id="XMLID_2855_" class="st6" points="234.3,146.6 244.3,198.7 268.2,246.7 213.1,197.6 		"/>
+		<polygon id="XMLID_2806_" class="st9" points="268.2,179.9 244.3,198.7 213.1,197.6 234.3,146.6 		"/>
+		<polygon id="XMLID_2789_" class="st8" points="213.1,197.6 234.3,146.6 244.3,198.7 		"/>
+		<polygon id="XMLID_2763_" class="st8" points="306.6,139.2 271.5,122.4 236.3,139.2 271.5,53.8 		"/>
+		<polygon id="XMLID_2742_" class="st9" points="306.6,139.2 271.5,53.8 271.5,122.4 		"/>
+		<polygon id="XMLID_2635_" class="st6" points="236.3,139.2 271.5,89.6 271.5,53.8 		"/>
+		<polygon id="XMLID_2535_" class="st6" points="234.3,146.6 213.1,197.6 239.2,172.1 		"/>
+		<polygon id="XMLID_2486_" class="st6" points="274.8,179.9 304.4,169 308.7,146.6 		"/>
+	</g>
+</g>
+</svg>
